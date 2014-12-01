@@ -1,0 +1,4 @@
+[root]
+name = "sock_client"
+version = "0.0.1"
+
